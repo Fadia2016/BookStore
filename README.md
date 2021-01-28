@@ -1,7 +1,7 @@
 # BookStore
 
 
-	The project is about a web page that will allow students to buy and sell their books to each other.
+The project is about a web page that will allow students to buy and sell their books to each other.
 A student will post a picture of the book, ISBN, title, and the price of the book.
 The students who are looking for the book will find the book and the information of the one who posted it (Email.) So, they can contact each other and agree on a place on campus to meet.
 The student can delete, or unpublish any book after it has been sold. There is an admin who can post, delete, or unpublished any book in the website.
