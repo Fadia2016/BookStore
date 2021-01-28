@@ -7,6 +7,7 @@ In this project, I used MYSQL as database. The database is called “project” 
 First table is Called: ‘users’
 
 | Field     | Type        | Null | Key     | Default | Extra          |
+| --------- | ----------- | ---: | ------- | ------- | -------------- |
 | id        | int(8)      | No   | Primary | NULL    | Auto_increment |
 | firstname | varchar(25) | No   |         | NULL    |                |
 | lastname  | varchar(25) | No   |         | NULL    |                |
